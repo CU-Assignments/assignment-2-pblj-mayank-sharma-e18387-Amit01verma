@@ -1,0 +1,61 @@
+Problem 1: Product Class (Easy Level)
+
+Input:
+Product ID: 201
+Name: Smartphone
+Price: 45000
+
+Output:
+Product Details:
+ID: 201
+Name: Smartphone
+Price: 45000
+
+Problem 2: Library Management System (Medium Level)
+
+Input:
+Book 1:
+Type: Fiction
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 400
+
+Book 2:
+Type: Non-Fiction
+Title: Wings of Fire
+Author: A.P.J. Abdul Kalam
+Price: 550
+
+Output:
+Fiction Book Details:
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 400
+
+Non-Fiction Book Details:
+Title: Wings of Fire
+Author: A.P.J. Abdul Kalam
+Price: 550
+
+Problem 3: Student Information System (Hard Level)
+
+Input:
+Enter Student and Teacher Details:
+Student Name: Rajesh
+Student Age: 21
+Roll Number: 105
+
+Teacher Name: Dr. Mehta
+Teacher Age: 50
+Subject: Computer Science
+
+Output:
+Student Details:
+Name: Rajesh
+Age: 21
+Roll Number: 105
+
+Teacher Details:
+Name: Dr. Mehta
+Age: 50
+Subject: Computer Science
